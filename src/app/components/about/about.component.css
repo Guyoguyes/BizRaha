@@ -1,3 +1,23 @@
 .about{
-
+  margin-top: 30px;
+  background-color:#29b6f6;
+  height: 600px;
 }
+.about-header{
+  margin-top: 40px;
+  padding-left: 70px;
+}
+.about-header h3{
+  font-family: 'Poppins', sans-serif;
+  color: #fafafa;
+  font-size: 40px;
+}
+.about-list ul li{
+  list-style: none;
+  padding: 20px;
+  padding-left: 80px;
+  margin: 2px 0 0.5px 0;
+  color: #fafafa;
+  font-size: 18px;
+}
+
