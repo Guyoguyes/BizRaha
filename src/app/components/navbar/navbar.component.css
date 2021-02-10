@@ -1,0 +1,23 @@
+.navbar{
+  height: 70px;
+  background-color: #29b6f6;
+}
+.navbar-brand{
+  padding-left: 50px;
+  font-size: 28px;
+  font-family: 'Hammersmith One', sans-serif;
+  color: black;
+}
+.navbar-nav{
+  padding-left: 200px;
+  margin: 70px;
+  font-size: 18px;
+}
+.navbar-nav a{
+  color: #212121;
+  font-family: 'Rubik', sans-serif;
+}
+.btn{
+  width: 180px;
+  margin:10px;
+}
